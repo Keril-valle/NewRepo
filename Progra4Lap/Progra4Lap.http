@@ -1,0 +1,6 @@
+@Progra4Lap_HostAddress = http://localhost:5228
+
+GET {{Progra4Lap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
